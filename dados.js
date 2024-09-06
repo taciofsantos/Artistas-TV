@@ -9,7 +9,7 @@ let dados = [
         nome: "Fausto Silva",
         descricao: "Fausto Silva, conhecido como Faustão, é um apresentador de televisão brasileiro, famoso por seus programas de auditório e por sua longa trajetória na Rede Globo.",
         link: "https://pt.wikipedia.org/wiki/Fausto_Silva",
-        tags:"globo rádio radio domingao domingão domingo"
+        tags:"globo rádio radio domingao domingão domingo faustao faustão"
     },
     {
         nome: "Raul Gil",
